@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# Гарипов Расим Ильнурович 11-901
+
 import os
 import time
 import random
